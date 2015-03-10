@@ -3,3 +3,4 @@
 # test a commit from local
 # A CONFLICT
 a new branch test
+plugin test
